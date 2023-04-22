@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author diond
+ *
+ */
+module checklink {
+}
